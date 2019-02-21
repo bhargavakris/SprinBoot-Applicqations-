@@ -1,2 +1,2 @@
 # SprinBoot-Customer Service application-
-Basic Spring boot applications create 
+Basic Spring boot application 
